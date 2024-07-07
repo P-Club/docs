@@ -5,7 +5,7 @@ branding:
   title: P部
   label: Docs
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+  - text: 公式サイト
+    link: https://p-club.github.io/
 footer:
   copyright: "&copy; Copyright . All rights reserved."
