@@ -1,4 +1,4 @@
-![カバー画像](/static/cover.png "カバー画像")
+![カバー画像](/static/cover.png)
 
 # ホーム
 
