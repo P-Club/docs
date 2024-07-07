@@ -1,3 +1,7 @@
+---
+order: 11
+---
+
 ![カバー画像](/static/cover.png)
 
 # ホーム
