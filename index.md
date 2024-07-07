@@ -1,8 +1,9 @@
 ---
 order: 11
+icon: home
 ---
 
-![カバー画像](/static/cover.png)
+![](/static/cover.png)
 
 # ホーム
 
