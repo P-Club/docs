@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: https://p-club.github.io/docs/ # Add your website here
 branding:
-  title: Project Name
+  title: P部
   label: Docs
 links:
   - text: Getting Started
