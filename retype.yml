@@ -4,10 +4,10 @@ url: https://p-club.github.io/docs/ # Add your website here
 branding:
   title: P部
   label: Docs
-  logo: アート.png
+  logo: static/logo.png
 links:
   - text: 公式サイト
     link: https://p-club.github.io/
 footer:
   copyright: "&copy; Copyright . All rights reserved."
-favicon: アート.png
+favicon: static/logo.png
